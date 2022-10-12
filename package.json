@@ -5,8 +5,11 @@
     "author": "shivankur Singh",
     "repository": "https://github.com/Shivankur25/monokle_templates_plugins",
     "monoklePlugin" : {
-        "modules" : [
-            {
+        
+            "id" : "com.github.Shivankur-Singh.plugin.templates",
+            "helpUrl" : "https://github.com/Shivankur25/monokle_templates_plugins",
+            "modules" : [
+                {
                 "type" : "template",
                 "path" : "basic-pod-template"
             }
